@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-在线教育系统的 Java 多模块后端，首次上传于 2020 年 10 月 7 日。项目使用 Spring Boot、MyBatis-Plus 和 Nacos 服务发现。
+在线教育平台的 Java 多模块后端，使用 Spring Boot、MyBatis-Plus 和 Nacos 服务发现。代码按教务、媒体和会员业务划分，最早上传于 2020 年 10 月 7 日。
 
 | 模块 | 内容 |
 | --- | --- |

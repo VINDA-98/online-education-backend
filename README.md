@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-A multi-module Java backend for an online education system, first uploaded on October 7, 2020. It uses Spring Boot, MyBatis-Plus, and Nacos service discovery.
+A multi-module Java backend for online education, built with Spring Boot, MyBatis-Plus and Nacos discovery. It organizes teaching, media and membership into separate services. The initial upload was on October 7, 2020.
 
 | Module | What it contains |
 | --- | --- |
